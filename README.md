@@ -4,5 +4,9 @@ Meu nome é Cibele e sou estudante do curso de Tecnologia em Análise e Desenvol
 - 🌱 Atualmente estou estudando Django REST, JavaScript e React
 - 📫 Contate-me no [Linkedin](https://www.linkedin.com/in/cibelediniz/) ou através do email: cibelerbdiniz@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cibelediniz&layout=donut&theme=cobalt)](https://github.com/cibelediniz/github-readme-stats)
-<!--[cibelediniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=cibelediniz&show_icons=true&theme=cobalt)-->
+
+<div align="center" style="display: inline_block">
+  <a href="https://github.com/igorrgabr">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cibelediniz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cibelediniz&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
