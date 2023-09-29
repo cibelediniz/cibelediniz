@@ -6,7 +6,7 @@ Meu nome é Cibele e sou estudante do curso de Tecnologia em Análise e Desenvol
 
 
 <div align="center" style="display: inline_block">
-  <a href="https://github.com/igorrgabr">
+  <a href="https://github.com/cibelediniz">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cibelediniz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cibelediniz&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
