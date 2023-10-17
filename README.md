@@ -8,6 +8,15 @@ Após alguns anos trabalhando com licitações na Prefeitura do Natal, comecei a
 - 🌱 Atualmente estou estudando Django REST, JavaScript e React
 - 📫 Contate-me no [Linkedin](https://www.linkedin.com/in/cibelediniz/) ou através do email: cibelerbdiniz@gmail.com
 
+## Hi! :octocat: 
+My name is Cibele and I am an IT Systems Analysis and Design (IFRN - Natal Central) student. I have undergraduate degree in both Public Policy Management (UFRN) and Graphic Design (UnP), in addition to an MBA in Corporate Environmental Management (UnP). 
+
+After a few years working with tendering processes at Natal City Hall, I started reflecting about the improvements I could make to the systems used in our day-to-day routine. So, I decided to start a new undergraduate degree. This time in the Information Technology area! 
+
+- 💗 I'm familiar with HTML, CSS, Python languages and Django framework. I have skill and interest in the areas of UI/UX Design. 
+- 🌱 I'm currently studying Django REST, JavaScript and React 
+- 📫 Contact me on Linkedin or e-mail: cibelerbdiniz@gmail.com
+
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/cibelediniz">
