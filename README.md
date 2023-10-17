@@ -15,7 +15,7 @@ After a few years working with tendering processes at Natal City Hall, I started
 
 - 💗 I'm familiar with HTML, CSS, Python languages and Django framework. I have skill and interest in the areas of UI/UX Design. 
 - 🌱 I'm currently studying Django REST, JavaScript and React 
-- 📫 Contact me on Linkedin or e-mail: cibelerbdiniz@gmail.com
+- 📫 Contact me on [Linkedin](https://www.linkedin.com/in/cibelediniz/) or e-mail: cibelerbdiniz@gmail.com
 
 
 <div align="center" style="display: inline_block">
