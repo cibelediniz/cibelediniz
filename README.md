@@ -4,7 +4,7 @@ Também sou formada em Gestão de Políticas Pública (UFRN) e Design Gráfico (
 
 Após alguns anos trabalhando com licitações na Prefeitura do Natal, comecei a pensar em melhorias que eu poderia fazer nos sistemas utilizados no meu dia-a-dia. Assim, resolvi começar uma nova graduação, dessa vez na área de tecnologia!
 
-- 💗 Tenho intimidade com HTML, CSS, Python e JavaScript. Tenho facilidade e interesse nas áreas de UI/UX Design.
+- 💗 Tenho intimidade com HTML, CSS, Python e Django. Tenho facilidade e interesse nas áreas de UI/UX Design.
 - 🌱 Atualmente estou estudando Django REST, JavaScript e React
 - 📫 Contate-me no [Linkedin](https://www.linkedin.com/in/cibelediniz/) ou através do email: cibelerbdiniz@gmail.com
 
