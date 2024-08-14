@@ -1,22 +1,22 @@
-## Oie! :octocat:
-Meu nome é Cibele e sou estudante do curso de Tecnologia em Análise e Desenvolvimento de Sistemas (IFRN - Natal Central).
-Também sou formada em Gestão de Políticas Pública (UFRN) e Design Gráfico (UnP), além de ter um MBA em Gestão Ambiental Empresarial (UnP).
+Olá! :octocat: 
+Meu nome é Cibele, sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no IFRN - Natal Central. Tenho formações em Gestão de Políticas Públicas pela UFRN, Design Gráfico pela UnP, e um MBA em Gestão Ambiental Empresarial, também pela UnP.
 
-Após alguns anos trabalhando com licitações na Prefeitura do Natal, comecei a pensar em melhorias que eu poderia fazer nos sistemas utilizados no meu dia-a-dia. Assim, resolvi começar uma nova graduação, dessa vez na área de tecnologia!
+Depois de alguns anos trabalhando com licitações na Prefeitura de Natal, percebi que poderia contribuir com melhorias nos sistemas que utilizava diariamente. Isso me motivou a iniciar uma nova graduação, desta vez na área de tecnologia.
 
-- 💗 Tenho intimidade com HTML, CSS, Python e Django. Tenho facilidade e interesse nas áreas de UI/UX Design.
-- 🌱 Atualmente estou estudando Django REST, JavaScript e Vue
+- 💻 Atualmente estou trabalhando com ASP.NET, Visual Basic e Vue.js, utilizando também a ferramenta Figma.
+- 💗 Tenho experiência com HTML, CSS, Python e Django. Tenho facilidade e interesse nas áreas de UI/UX Design.
 - 📫 Contate-me no [Linkedin](https://www.linkedin.com/in/cibelediniz/) ou através do email: cibelerbdiniz@gmail.com
 
-## Hi! :octocat: 
-My name is Cibele and I am an IT Systems Analysis and Design (IFRN - Natal Central) student. I have undergraduate degree in both Public Policy Management (UFRN) and Graphic Design (UnP), in addition to an MBA in Corporate Environmental Management (UnP). 
+------------------------------------
 
-After a few years working with tendering processes at Natal City Hall, I started reflecting about the improvements I could make to the systems used in our day-to-day routine. So, I decided to start a new undergraduate degree. This time in the Information Technology area! 
+Hi! :octocat: 
+My name is Cibele, and I'm IT Systems Analysis and Design (IFRN - Natal Central) student. I have undergraduate degree in both Public Policy Management (UFRN) and Graphic Design (UnP), in addition to an MBA in Corporate Environmental Management (UnP). 
 
-- 💗 I'm familiar with HTML, CSS, Python languages and Django framework. I have skill and interest in the areas of UI/UX Design. 
-- 🌱 I'm currently studying Django REST, JavaScript and Vue 
+After several years working with tendering processes and public procurement at Natal City Hall, I started reflecting about the improvements I could make to the systems used in our day-to-day routine. This motivated me to start a new degree, this time in the field of technology.
+
+- 💻 I am currently working with ASP.NET, Visual Basic, and Vue.js, while also using the Figma tool.
+- 💗 I have experience with HTML, CSS, Python, and Django. I have a knack for and interest in UI/UX Design.
 - 📫 Contact me on [Linkedin](https://www.linkedin.com/in/cibelediniz/) or e-mail: cibelerbdiniz@gmail.com
-
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/cibelediniz">
